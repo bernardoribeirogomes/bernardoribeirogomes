@@ -40,11 +40,23 @@ I am curious, proactive and committed to learning. I enjoy connecting technical 
   </tr>
 </table>
 
-## How to reach me. 📬
+## How to reach me 📬
 
 <div>
+  <a href="https://www.linkedin.com/in/bernardo-ribeiro-gomes-b503b1379" target="_blank">
+    <img align="left" alt="Bernardo Ribeiro | LinkedIn" height="33px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  </a>
 
-  [<img align="left" alt="Bernardo Ribeiro | LinkedIn" height="33px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](www.linkedin.com/in/bernardo-ribeiro-gomes-b503b1379) [<img align="left" alt="Bernardo Ribeiro | Instagram" height="33px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />](https://www.instagram.com/badimff/)  [<img align="left" alt="Bernardo Ribeiro | Lattes" height="33px" src="https://mbaufscar.com.br/wp-content/themes/MBA_Economia/IMG/sbr-lattes.png" />]([https://lattes.cnpq.br/1925225382345168))
+  <a href="https://www.instagram.com/badimff/" target="_blank">
+    <img align="left" alt="Bernardo Ribeiro | Instagram" height="33px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
+  </a>
+
+  <a href="https://lattes.cnpq.br/1925225382345168" target="_blank">
+    <img align="left" alt="Bernardo Ribeiro | Lattes" height="33px" src="https://mbaufscar.com.br/wp-content/themes/MBA_Economia/IMG/sbr-lattes.png" />
+  </a>
+</div>
+
+<br clear="left"/>
 
 <!--
 **bernardoribeirogomes/bernardoribeirogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
