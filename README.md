@@ -10,7 +10,7 @@ I am curious, proactive and committed to learning. I enjoy connecting technical 
 
 ## Main Techs ⚙
 
-<img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" /> <img src="https://img.icons8.com/color/600/c-programming.png" width="95px"/> 
+<img src="https://raw.githubusercontent.com/GuilhermeZimpeck/GuilhermeZimpeck/064b1c1e5479218442f540a1d39e1b117732c5bb/python-original.svg" width="100px" /> 
 
 ## Tools 🛠
 
